@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FO+vPBorXR94IFQAM0Ya9iCHj2Xji61bK5Tst56+Iy0nIQyjSksdt5TMHn2uKxhGANVIpir87tBIZ/aUI8WIAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\topot\\source\\repos\\Speed_Test\\Speed_Test\\Speed_Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\topot\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
